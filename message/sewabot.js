@@ -14,10 +14,7 @@ Berikut adalah list harga untuk sewa botz
 
 *╭─▸*「 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 」
 *┴*
-*│▸* Shopee : ${settings.Shopee}
-*│▸* Gopay : ${settings.Gopay}
-*│▸* Dana : ${settings.Dana}
-*│▸* Ovo : ${settings.Ovo}
+*│▸* Pulsa : $?
 *┬*
 *╰────────────[*
 
